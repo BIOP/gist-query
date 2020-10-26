@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOP/gist-query/master)
+
 # Parse GISTS from BIOP and create Markdown table
 
 ## Installation
