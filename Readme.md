@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOP/gist-query/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOP/gist-query/omero)
 
 # Parse GISTS from BIOP and create Markdown table
 
